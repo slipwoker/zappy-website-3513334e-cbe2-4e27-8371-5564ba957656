@@ -44,7 +44,10 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Email: yossiba1369@gmail.com
+- Phone: +972526509330
+- Phone (tel): tel:+972526509330
+- Address: הרצל 75, נהריה, ישראל
 
 ### Contact form
 - URL: https://example.com/contact
