@@ -1,0 +1,88 @@
+# משרד עו"ד יוסי בן אבו (יבא) — Generative Engine Optimization Map
+
+> A law firm specializing in three key legal areas: criminal law, national insurance (Bituach Leumi), and labor law. The firm serves clients who need professional legal representation and guidance in these fields, combining expertise across both individual and employment-related legal matters.
+
+---
+
+## Pages
+
+### בית
+https://-3513334e.zappy5.app
+משרד עורכי דין מוביל עם מומחיות בשלושה תחומים קריטיים: משפט פלילי, ביטוח לאומי ודיני עבודה. אנו נלחמים על הזכויות שלך ומספקים ייצוג משפטי מקצועי ואסטרטגי. צור קשר עוד היום לייעוץ ראשוני ללא התחייבות.
+
+### שירותים
+https://-3513334e.zappy5.app/services
+שירותים משפטיים מקיפים בפלילים, מימוש זכויות מול הביטוח הלאומי וסכסוכי עבודה. צוות המשרד משלב ידע מעמיק ויצירתיות כדי להשיג עבורך את התוצאה הטובה ביותר. בדוק כיצד נוכל לסייע לך לנצח.
+
+### אודות
+https://-3513334e.zappy5.app/about
+משרדנו מתמחה בייצוג בלתי מתפשר בתחום הפלילי, תביעות ביטוח לאומי וליווי עובדים ומעסיקים. אנו מביאים ניסיון עשיר ומחויבות אישית לכל לקוח. למד עוד על הגישה שמביאה ניצחונות אמיתיים.
+
+### צור קשר
+https://-3513334e.zappy5.app/contact
+מוכן לקבל את הייצוג המשפטי שמגיע לך? השאר פרטים לייעוץ דיסקרטי עם עו&quot;ד יוסי בן אבו בנושאים פליליים, ביטוח לאומי או דיני עבודה. הדרך לצדק מתחילה בשיחת טלפון אחת.
+
+### תודה שפניתם אלינו
+https://-3513334e.zappy5.app/thank-you
+משרד עו"ד יוסי בן אבו (יבא) - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://-3513334e.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-3513334e.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-3513334e.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-3513334e.zappy5.app/contact
+- Endpoint: https://-3513334e.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About משרד עו"ד יוסי בן אבו (יבא)
+A law firm specializing in three key legal areas: criminal law, national insurance (Bituach Leumi), and labor law. The firm serves clients who need professional legal representation and guidance in these fields, combining expertise across both individual and employment-related legal matters.
+
+## Services/Products
+- דיני פלילי
+- ביטוח לאומי
+- דיני עבודה
+
+## Target Audience
+- בעלי עסקים המחפשים ייעוץ משפטי
+- לקוחות בתחום דיני משפחה
+- אנשים הגרים באזור הצפון
+- אנשים המתמודדים משפטית עם המוסד לביטוח לאומי ומעסיקים
+
+## Industry
+Legal Services
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-3513334e.zappy5.app/sitemap.xml
+- Robots: https://-3513334e.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-3513334e.zappy5.app/llms-full.txt
